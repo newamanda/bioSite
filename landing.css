@@ -1,0 +1,32 @@
+h1 {
+    float: right;
+    padding-right: 550px;
+    padding-top: 50px;
+}
+
+.header-image {
+    padding-left: 350px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+img {
+    width: 400px;
+}
+
+#image-gallery {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+#about-me {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+figcaption {
+    text-align: center;
+    padding-right: 175px;
+}
