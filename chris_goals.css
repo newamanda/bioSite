@@ -9,6 +9,67 @@ img {
     width: 400px;
 }
 
+
 .bottom {
+    display: inline-flex;
+    font-family: "Montserrat Underline", serif;
+    font-weight: 600;
+    background-color: #33a1fd;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+.bottom a:hover {
+    color: #fdca40;
+    font-style: italic;
+}
+
+.bottom a:visited {
+    color: #3382c2;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    display: inline-flex;
+    font-family: "Montserrat Underline", serif;
+    background-color: #33a1fd;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image-gallery figure {
+    background-color: #33a1fd;
+    padding-left: 50px;
+}
+
+body {
+    background-color: #2176ff;
+}
+
+.goals {
+    font-family: "Arsenal SC", serif;
+    font-weight: 600;
+    font-size: larger;
+    text-align: center;
+}
+
+.goals p {
+    background-color: orange;
+    display: inline-flex;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ninja {
     text-align: center;
 }
